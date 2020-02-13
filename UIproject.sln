@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIproject", "UIproject\UIproject.csproj", "{358B99B8-87BE-4BFA-9276-F3A1EE10EF0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JqueryProject", "JqueryProject\JqueryProject.csproj", "{207CF4A8-A35C-4A7F-B10B-FD26D9FC8D76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwelveEvents", "TwelveEvents\TwelveEvents.csproj", "{8E9957A8-9E70-4548-8E7B-0F2959651BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twelve", "Twelve\Twelve.csproj", "{8934A639-0AE1-413F-9DC6-DED300B80251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{358B99B8-87BE-4BFA-9276-F3A1EE10EF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358B99B8-87BE-4BFA-9276-F3A1EE10EF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358B99B8-87BE-4BFA-9276-F3A1EE10EF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358B99B8-87BE-4BFA-9276-F3A1EE10EF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{207CF4A8-A35C-4A7F-B10B-FD26D9FC8D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207CF4A8-A35C-4A7F-B10B-FD26D9FC8D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207CF4A8-A35C-4A7F-B10B-FD26D9FC8D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207CF4A8-A35C-4A7F-B10B-FD26D9FC8D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E9957A8-9E70-4548-8E7B-0F2959651BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9957A8-9E70-4548-8E7B-0F2959651BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9957A8-9E70-4548-8E7B-0F2959651BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9957A8-9E70-4548-8E7B-0F2959651BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8934A639-0AE1-413F-9DC6-DED300B80251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8934A639-0AE1-413F-9DC6-DED300B80251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8934A639-0AE1-413F-9DC6-DED300B80251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8934A639-0AE1-413F-9DC6-DED300B80251}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C6AFFCE-7968-4B1C-8FF7-24F1568618E5}
+	EndGlobalSection
+EndGlobal
